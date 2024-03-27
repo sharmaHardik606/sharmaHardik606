@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sharmaHardik606
+- 👋 Hi, I’m Hardik Sharma
 - 👀 I’m interested in web devlopement
 - 🌱 I’m currently learning Java script
 - 💞️ I’m looking to collaborate on ...
