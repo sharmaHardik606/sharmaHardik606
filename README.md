@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hardik Sharma
 - 👀 I’m interested in web devlopement
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on any html css and js project
+- 💞️ I’m looking to collaborate on any React project
 - 📫 How to reach me @sharmahardik606@gmail.com / instagram - hardik__kapil
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am a b.com graduate and i love to code so here i am.
